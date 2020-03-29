@@ -416,22 +416,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd973f292fd167f4a96d9146abd29403, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  renderMode: 1
-  geometryType: 3
-  renderWaterDepth: 1
-  baseEffectsQuality: 1
-  superSampling: 1
-  renderVolumes: 1
-  renderFlatMasks: 1
-  forcedVertexCount: 0
-  submersionStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UltimateWater.WaterCamera+WaterCameraEvent, Assembly-CSharp, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  mainWater: {fileID: 0}
-  effectsLight: {fileID: 0}
-  ReflectionCamera: {fileID: 0}
 --- !u!114 &1478157871
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -444,7 +428,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  profile: {fileID: 11400000, guid: 798da62f5f5e64f4991acae91a65b1d6, type: 2}
 --- !u!81 &1478157872
 AudioListener:
   m_ObjectHideFlags: 0
