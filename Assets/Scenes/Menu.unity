@@ -451,8 +451,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 277}
-  m_SizeDelta: {x: -697.1, y: -619.2}
+  m_AnchoredPosition: {x: 0, y: 268.3}
+  m_SizeDelta: {x: -697.1, y: -636.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &121618307
 MonoBehaviour:
@@ -660,7 +660,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -278}
+  m_AnchoredPosition: {x: 0, y: -262}
   m_SizeDelta: {x: 600, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &290858584
@@ -1284,8 +1284,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 278}
-  m_SizeDelta: {x: -785.2, y: -611}
+  m_AnchoredPosition: {x: 0, y: 266.75}
+  m_SizeDelta: {x: -785.2, y: -633.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &817261922
 MonoBehaviour:
@@ -2065,7 +2065,7 @@ Camera:
   m_GameObject: {fileID: 1738040421}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
+  m_ClearFlags: 4
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
